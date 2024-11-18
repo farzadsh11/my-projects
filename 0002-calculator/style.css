@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.forStyleButton1 {
+    width: 50px;
+    height: 75px;
+    font-size: 30px;
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+/* .forGroupCalculator1 {
+    border: solid 2px red;
+    background-color: #FFFF00;
+    text-align: center;
+} */
+
+.for0 {
+    width: 105px;
+}
+
+.forColor1 {
+    color: orange;
+}
+
+.forColor2 {
+    color: #00eaff;
+}
