@@ -1,0 +1,58 @@
+body, h1, p, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* or select all with * {} */
+/* m. */
+/* * {
+    border: solid 2px red;
+} */
+
+/* Body Styling */
+body {
+    /* border: solid 2px red; */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+    color: #333;
+    padding: 20px;
+    /* m. */
+    /* margin: 20px; */
+}
+
+/* header styling */
+header {
+    border: none;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #5a67d8;
+}
+
+/* button Styling */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #5a67d8;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #4a9041;
+    color: red;
+    width: 500px;
+}
+
+/*footer Styling */
+footer {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #666;
+}

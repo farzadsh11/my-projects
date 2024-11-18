@@ -1,0 +1,11 @@
+.forTestBoxSizing1 {
+    border: solid 2px red;
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+    box-sizing: border-box;
+}
+
+* {
+    border: solid 2px red;
+}
